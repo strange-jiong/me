@@ -1,5 +1,4 @@
 # me
-==========================
 
 Welcome to strange-jiong's landscape, here you would see the following:
 
